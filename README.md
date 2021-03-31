@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @caitlinnaylor
-- 🌱 I’m currently at student studying computer science
+- 🌱 I’m currently a student studying computer science
 
 <!---
 caitlinnaylor/caitlinnaylor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
