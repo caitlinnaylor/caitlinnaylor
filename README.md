@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @caitlinnaylor
-- 🌱 I’m currently a high schoool student from NZ
+- I’m currently a high schoool student from NZ
 - I'll be studying computer science at Uni next year 
 - My favourite part of computer science is programming 
 - I also really love any type of art - design, painting, printmaking etc. 
