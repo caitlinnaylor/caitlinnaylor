@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @caitlinnaylor
-- I’ve just finished high school
+- I’ve just finished high school where I took Computer Science as a subject
 - I'll be studying Computer Science at Victoria University of Wellington next year 
-- I have a Gold Team CREST award in Technology and have been part of a team that won an Agtech Hackathon
+- I have a Gold Team CREST award in Tech, have made it to 123Tech Nationals in both years competed in (2018 & 2019), and have been part of a team that won an Agtech Hackathon
 - I am also passionate about art (eg. painting, design) 
 
 <!---
