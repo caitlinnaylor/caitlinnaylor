@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @caitlinnaylor
 - I'm studying Computer Science at Victoria University of Wellington 
-- I have a Gold Team CREST award in Tech, have made it to 123Tech Nationals in both years competed in (2018 & 2019), and have been part of a team that won an Agtech Hackathon
-- I am also passionate about art (eg. painting, design) and have taken some uni courses in design  
-- I also have NCEA level 3 business knowledge 
+- My main programming languages are Python and Java 
+- Please note that VUW has restrictions on us posting assignment work, so coding seen here is out of date with my current skills - until I get some free time for personal projects. 
 
 <!---
 caitlinnaylor/caitlinnaylor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
