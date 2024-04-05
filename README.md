@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @caitlinnaylor
-- I'm studying Computer Science at Victoria University of Wellington 
+- I'm a final year Computer Science student at Victoria University of Wellington 
 - Please note that work seen here is not up to date with current skills, as I am still in the process of adapting projects for public viewing.
 - Most of those will be Java Projects but there may also be some Python and C/C++ additions
 
